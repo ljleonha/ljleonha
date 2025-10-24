@@ -6,7 +6,19 @@
 My name is Lily, and I’m a front-end web developer with a passion for visual artistry!
 
 ### _Get in contact with me!_
+📫 ljleonhardt@protonmail.com
 
+### _See some of my work!_
+<a href="behance.net/lilyleonhardt">Behance Page</a>
+
+### _What I know and use!_
+-HTML<br>
+-CSS<br>
+-JavaScript<br>
+-Github<br>
+-Visual Studio Code<br>
+-Adobe Creative Cloud<br>
+-Figma<br>
 
 
 
