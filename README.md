@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5dc25197-6bdf-410a-900d-f7f8366dbd57">
+</p>
+
+## ✨ Hello, Everyone!
+My name is Lily, and I’m a front-end web developer with a passion for visual artistry!
+
+### _Get in contact with me!_
+
+
+
 
 <!--
 **ljleonha/ljleonha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
