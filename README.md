@@ -30,7 +30,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,notion,ae,ai,ps&theme=light"/>
   </a>
-</p>
+</p><br>
 
 <h2 align="center">
   🌱 What I'm Learning! 🌱
@@ -40,6 +40,20 @@
     <img src="https://skillicons.dev/icons?i=flutter,tailwind,wordpress&theme=light"/>
   </a>
 </p><br>
+
+<h2 align="center">
+  💗 Current Favorites! 💗
+</h2>
+<p align="center">
+  See What Else I'm Reading:
+  <a href="https://app.thestorygraph.com/profile/jolibeans">StoryGraph</a>
+</p>
+<h3 align="center">
+  📕Frankenstein by Mary Shelley |
+  🎵Music by underscores |
+  🎥Arcane |
+  🎮The Elder Scrolls IV: Oblivion 
+</h3>
 
 
 
