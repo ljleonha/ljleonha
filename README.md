@@ -18,10 +18,10 @@
 </h1>
 <p align="center">
   My name is Lily (she/her), and I’m a front-end web developer with a passion for visual artistry! I'm currently pursuing my degree in Graphic Information Technology at ASU. When I'm not buidling websites, I'm drawing, reading a new book, or playing one of my favorite games!
-</p>
+</p><br>
 
 <h2 align="center">
-  What I Know and Use!
+  💻 What I Know and Use! 💻
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,14 +31,19 @@
     <img src="https://skillicons.dev/icons?i=vscode,figma,notion,ae,ai,ps&theme=light"/>
   </a>
 </p>
+
 <h2 align="center">
-  What I'm Learning!
+  🌱 What I'm Learning! 🌱
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,tailwind,wordpress&theme=light"/>
   </a>
-</p>
+</p><br>
+
+
+
+
 
 
 
